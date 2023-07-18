@@ -1,0 +1,4 @@
+﻿  缓慢显示hello_world.c
+F:\somecode\缓慢显示hello_world\缓慢显示hello_world.c(13,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\somecode\缓慢显示hello_world\缓慢显示hello_world.c(20,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  缓慢显示hello_world.vcxproj -> F:\somecode\缓慢显示hello_world\x64\Debug\缓慢显示hello_world.exe
